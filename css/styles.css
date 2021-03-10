@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* トップページ　ここから */
+
+/* トップページ　ここまで */
+
+/* 作品紹介ページ　ここから */
+
+
+/* 作品紹介ページ　ここまで */
+
+/* コンタクトページ　ここから */
+textarea {
+  width: 400px;
+  height: 100px;
+  overflow: scroll;
+}
+input[type="text"] {
+  width: 300px;
+}
+input[type="email"] {
+  width: 400px;
+}
+
+/* コンタクトページ　ここまで */
